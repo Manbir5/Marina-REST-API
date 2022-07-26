@@ -1,6 +1,4 @@
 # Author: Manbir Singh
-# Date: June 6, 2022
-# Class: CS493
 # Description: This program represents a rest API that deals with boats and loads. This file deals with
 # API calls to /users.
 
