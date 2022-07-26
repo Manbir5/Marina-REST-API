@@ -1,6 +1,4 @@
 # Author: Manbir Singh
-# Date: June 6, 2022
-# Class: CS493
 # Description: This program represents a complete rest API that deals with users, boats and loads.
 # This file imports the other two components and sets the route for the root url.
 
